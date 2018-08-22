@@ -1,0 +1,13 @@
+{
+"companyName": "Mod Monkeys",
+"productName": "Time of Day",
+"dataUrl": "Time of Day.data.unityweb",
+"asmCodeUrl": "Time of Day.asm.code.unityweb",
+"asmMemoryUrl": "Time of Day.asm.memory.unityweb",
+"asmFrameworkUrl": "Time of Day.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
