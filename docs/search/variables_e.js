@@ -11,6 +11,7 @@ var searchData=
   ['space',['Space',['../class_t_o_d___components.html#a7872470e1140d18c0226e26ba5cca44b',1,'TOD_Components']]],
   ['starquality',['StarQuality',['../class_t_o_d___sky.html#a00cf4e6ebaf44e4148ec444d941da92f',1,'TOD_Sky']]],
   ['stars',['Stars',['../class_t_o_d___components.html#a0e18756dcd3d4b9a40acdf8c4aec0d78',1,'TOD_Components.Stars()'],['../class_t_o_d___sky.html#a6d9bdb8e4af80c746b48b92f2936a3f7',1,'TOD_Sky.Stars()']]],
+  ['startdistance',['StartDistance',['../class_t_o_d___scattering.html#a9a39262f75414297721eaf7a5df107b4',1,'TOD_Scattering']]],
   ['sun',['Sun',['../class_t_o_d___components.html#ab6c644918a1a2656b7d31117331c8f4e',1,'TOD_Components.Sun()'],['../class_t_o_d___sky.html#a24ba85c80d7f3fc3f5a1e7c36e5b52c4',1,'TOD_Sky.Sun()']]],
   ['suncolor',['SunColor',['../class_t_o_d___day_parameters.html#ac091b07bd7835a39af6fa86c9d46d88b',1,'TOD_DayParameters']]]
 ];
